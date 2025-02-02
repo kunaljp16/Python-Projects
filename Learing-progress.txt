@@ -1,3 +1,16 @@
 23-Jan-2025
 Topics covered today:
- - Test
+
+Data types:-
+ - integer
+ - string
+ - boolean
+ - bytes
+
+Container types :-
+ - list
+ - tuple
+ - dict
+ - set
+
+ 
